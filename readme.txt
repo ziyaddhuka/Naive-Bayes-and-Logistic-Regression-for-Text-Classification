@@ -1,3 +1,11 @@
+# Code for NB and LR
+Implementation of Bag of Words model, Bernoulli model, MultiNomial and Discrete Naive Bayes Model
+Implementation of MCAP and SGD Logistic Regression
+
+Paper referred for Naive Bayes part
+http://nlp.stanford.edu/IR-book/pdf/13bayes.pdf
+
+
 # If you are getting errors or not getting the output in PART 1 then try PART 2
 
 ## IMP: Please give the path till the dataset folder. The code takes the data from the train and test folder inside the path 
